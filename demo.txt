@@ -1,2 +1,3 @@
 hello git
 changes from child1 
+causing merge conflicts child1
